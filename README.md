@@ -1,18 +1,31 @@
 ```py
-  ____                                  
- / ___| _ __ ___   ___  __ ___  __  
- \___ \| '_ ` _ \ / _ \/ _` \ \/ / 
-  ___) | | | | | |  __/ (_| |>  <  
- |____/|_| |_| |_|\___|\__,_/_/\_\ 
-    
+███████╗███╗   ███╗███████╗ █████╗ ██╗  ██╗
+██╔════╝████╗ ████║██╔════╝██╔══██╗╚██╗██╔╝
+███████╗██╔████╔██║█████╗  ███████║ ╚███╔╝ 
+╚════██║██║╚██╔╝██║██╔══╝  ██╔══██║ ██╔██╗ 
+███████║██║ ╚═╝ ██║███████╗██║  ██║██╔╝ ██╗
+╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ 
 ```
 
-## 👋 Hello !
+## 👋 Salut ! Moi c’est **Smeax**  
 
+Je suis un jeune développeur de **16 ans**, passionné par le **web**, le **design**, et tout ce qui touche à l’**informatique**.  
 
-Moi c’est **Smeax**, un jeune développeur passionné de 16 ans.                                                                                                   
-• Je travaille sur plusieurs projets comme **Melozy**, **Smeax**, **Shadow os**, et bien d'autres.                                                             
-• Je touche à plusieurs domaines : développement **web**, **Java**, **JavaScript**, **scripts**, **graphisme**, **configuration**, et plus encore.                       
-• Je collabore avec **By-Hoster** et participe à différents projets et serveurs.                                                                                         
-• Actuellement étudiant, je me forme en continu dans l’univers de l’**informatique**, avec un intérêt particulier pour le **développement web**, les **applications**, les **logiciels** et la **création visuelle**.                                                                                                                           
-•  Côté gaming, je suis fan de **Minecraft**, **Call of Duty**, **Cyberpunk2077**, **Palworld**, **Warface** et **Monster Hunter**.                  
+### 💻 Projets & Collaborations
+- 🌴 [**Hyneria**](#) – Mon serveur Hytale semi-MMO/RPG  
+- 🌐 [**Smeax**](#) – Mes expérimentations et mini-apps, tools, dashboards  
+- 🎵 [**Melozy**](#) – Ma propre plateforme de musique gratuite et moderne  
+- 🖤 [**Shadow OS**](#) – Mon projet principal, en constante évolution, projet système / interface (mini Linux web)  
+- 🤝 Collaboration avec **By-Hoster**, **Gamost** et autres serveurs/projets  
+
+### 🔧 Compétences
+- Développement : **Web**, **Java**, **JavaScript**, **scripts**, **Astro**, **Frontend**, **React**, **Vite**, etc.  
+- Graphisme & UI : **Design**, **Illustrations**, **Création visuelle**  
+- Configuration & logiciels : **Setup**, **Logiciels**, **Automatisation**  
+
+### 📫 Me contacter
+- ✉️ Email : [smeax.professionnel@email.com](mailto:smeax.professionnel@email.com)  
+- 💬 Discord : `shadow93654` [Cliquez ici](https://discord.com/users/1143696603375484990)  
+- 🔗 Mon portfolio : [Smeax.fr](https://smeax01.github.io/smeax)  
+
+> Toujours en apprentissage…
